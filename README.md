@@ -1,50 +1,50 @@
-# 👨‍💻 Olá, eu sou o Carlos Júnior!
-
-Bem-vindo ao meu perfil! Sou um engenheiro de software focado no desenvolvimento Full-Stack, Backend e Engenharia de Dados, além de atuar como empresário. Gosto de construir sistemas escaláveis e arquiteturas robustas.
-
-### 🚀 Sobre Mim
-- 🔭 Atualmente trabalhando em projetos de arquitetura de software e soluções em banco de dados.
-- 💻 Foco atual: **Spring Boot, PostgreSQL e arquitetura de microsserviços.**
-- 📈 Sempre buscando otimizar fluxos de dados e criar lógicas de programação eficientes.
-- 🤝 Aberto a conexões, parcerias de código aberto e conversas sobre tecnologia.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-**Backend & Dados:**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Frontend & Outros:**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
----
-
-### 📊 Atividade & Estatísticas
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Carlosjunior4&theme=tokyonight&hide_border=true" alt="Sequência de Commits" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Carlosjunior4&theme=tokyonight&column=4&margin_w=15&margin_h=15&no-bg=true" alt="Troféus GitHub" />
+  <h2>👨‍💻 Olá, eu sou o Carlos Júnior!</h2>
+  <p>Desenvolvedor Full Stack | Estudante de Engenharia de Software | Empreendedor</p>
 </div>
 
 ---
 
-### 📞 Como me encontrar
+<div align="center">
+  <h3>🚀 Sobre Mim</h3>
+  <p>🔭 Estudante de Engenharia de Software, cursando disciplinas de Análise e Desenvolvimento de Sistemas.</p>
+  <p>💻 Foco atual: Desenvolvimento Mobile (Dart/Flutter), Dashboards Administrativos e APIs[cite: 1].</p>
+  <p>📈 Possuo perfil empreendedor, trazendo gestão de processos e visão de negócio para a tecnologia[cite: 1].</p>
+  <p>🤝 Buscando construir sistemas escaláveis e arquiteturas robustas.</p>
+</div>
 
-<a href="https://www.linkedin.com/in/carlos-junior-3b532a31b" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="Cjceduardo.junior@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+---
+
+<div align="center">
+  <h3>🛠️ Tecnologias e Ferramentas</h3>
+</div>
+
+<div align="center">
+  <h4>Backend & Dados</h4>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</div>
+
+<div align="center">
+  <h4>Frontend & Mobile</h4>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</div>
+
+---
+
+<div align="center">
+  <h3>📞 Contato</h3>
+  <a href="https://linkedin.com/in/carlos-junior-3b532a31b" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:seu-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
