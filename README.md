@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👨‍💻 Olá, eu sou o Carlos Júnior!
 
-<!--
-**Carlosjunior4/Carlosjunior4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil! Sou um engenheiro de software focado no desenvolvimento Full-Stack, Backend e Engenharia de Dados, além de atuar como empresário. Gosto de construir sistemas escaláveis e arquiteturas robustas.
 
-Here are some ideas to get you started:
+### 🚀 Sobre Mim
+- 🔭 Atualmente trabalhando em projetos de arquitetura de software e soluções em banco de dados.
+- 💻 Foco atual: **Spring Boot, PostgreSQL e arquitetura de microsserviços.**
+- 📈 Sempre buscando otimizar fluxos de dados e criar lógicas de programação eficientes.
+- 🤝 Aberto a conexões, parcerias de código aberto e conversas sobre tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Backend & Dados:**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Frontend & Outros:**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosjunior4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosjunior4&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+### 📞 Como me encontrar
+[![LinkedIn](www.linkedin.com/in/carlos-junior-3b532a31b)
+[![E-mail](Cjceduardo.junior@gmail.com)
