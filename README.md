@@ -1,18 +1,20 @@
 <div align="center">
   <h2>👨‍💻 Olá, eu sou o Carlos Júnior!</h2>
-  <p>Desenvolvedor Full Stack | Estudante de Engenharia de Software | Empreendedor</p>
+<p>Desenvolvedor Full Stack | Engenheiro de Software | Estrategista de Soluções</p>
 </div>
 
 ---
 
 <div align="center">
   <h3>🚀 Sobre Mim</h3>
-  <p>🔭 Estudante de Engenharia de Software, cursando disciplinas de Análise e Desenvolvimento de Sistemas.</p>
-  <p>💻 Foco atual: Desenvolvimento Mobile (Dart/Flutter), Dashboards Administrativos e APIs[cite: 1].</p>
-  <p>📈 Possuo perfil empreendedor, trazendo gestão de processos e visão de negócio para a tecnologia[cite: 1].</p>
-  <p>🤝 Buscando construir sistemas escaláveis e arquiteturas robustas.</p>
+  <p>🔭 <b>Arquitetura e Alta Performance:</b> Como estudante de Engenharia de Software[cite: 1], aplico conceitos avançados de sistemas para projetar plataformas escaláveis do zero, garantindo código limpo e manutenibilidade.</p>
+  
+  <p>💻 <b>Ecossistemas Completos:</b> Especialista em transformar regras de negócio em software real. Construo desde APIs de autenticação e Dashboards de E-commerce focados na gestão de vendas[cite: 1], até arquiteturas financeiras robustas, modelando bancos de dados relacionais complexos e APIs com Spring Boot e PostgreSQL.</p>
+  
+  <p>📈 <b>Código com Visão de Negócio:</b> Trago a vivência diária do empreendedorismo e gestão no setor de serviços[cite: 1]. Não apenas escrevo código, mas utilizo lógica de programação e otimização de processos operacionais para entregar sistemas que resolvem dores reais do mercado[cite: 1].</p>
+  
+  <p>🤝 Sempre aberto a novos desafios na construção de arquiteturas back-end e parcerias em tecnologia.</p>
 </div>
-
 ---
 
 <div align="center">
