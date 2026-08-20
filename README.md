@@ -28,10 +28,10 @@ Bem-vindo ao meu perfil! Sou um engenheiro de software focado no desenvolvimento
 
 ### 📊 Minhas Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Carlosjunior4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosjunior4&layout=compact&langs_count=7&theme=tokyonight)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Carlosjunior4&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosjunior4&layout=compact&theme=tokyonight" alt="Top Linguagens" />
+</div>
 ---
 
 ### 📞 Como me encontrar
